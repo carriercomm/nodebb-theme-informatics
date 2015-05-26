@@ -1,0 +1,28 @@
+{
+  "name": "nodebb-theme-informatics",
+  "version": "0.0.1",
+  "description": "Informatics Lab Theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "nodebb",
+    "lavender",
+    "theme",
+    "themes",
+    "informatics"
+  ],
+  "author": {
+    "name": "Jacob Tomlinson",
+    "email": "jacob@jacobtomlinson.co.uk"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": ""
+  },
+  "peerDependencies": {
+    "nodebb-theme-vanilla": "^1.0.0"
+  }
+}
