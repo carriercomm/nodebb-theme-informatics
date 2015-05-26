@@ -1,6 +1,6 @@
 {
     "id": "nodebb-theme-informatics",
-    "name": "Informatics Lab Theme for NodeBB",
+    "name": "Informatics Lab theme for NodeBB",
     "description": "Our NodeBB theme based on lavender.",
     "url": "",
     "screenshot": "screenshot.png"
