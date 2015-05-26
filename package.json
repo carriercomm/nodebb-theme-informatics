@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-informatics",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Informatics Lab Theme for NodeBB",
   "main": "theme.less",
   "repository": {
@@ -23,6 +23,6 @@
     "url": ""
   },
   "peerDependencies": {
-    "nodebb-theme-vanilla": "^1.0.0"
+    "nodebb-theme-vanilla": "^1.0.130"
   }
 }
